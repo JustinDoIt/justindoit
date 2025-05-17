@@ -10,7 +10,7 @@
    - WeChat: JustinDoIt_
    - Gmail: zhangjq5656 <AT> gmail.com
   
-Enjoy~ My Friends :P
+`Enjoy~ My Friends :P`
 
 <!--
 **JustinDoIt/justindoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
