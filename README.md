@@ -28,3 +28,7 @@ Here are some ideas to get you started:
 | 2018 - 2019 | (A little bit) **Robotics** | Curr SOTA LLM outperform me |
 | 2020 - 2023 | AI for Industry Biology | |
 | 2023 - 2025 | AI for Medication & Vaccination (Win 2024 Nobel Prize) | |
+
+## 🧑‍💻 Show-Me-Your-Code 
+
+## 🧑‍💻 Understanding about modern LLM
