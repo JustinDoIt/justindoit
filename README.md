@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Background 
+| Phase | Focus on | Comments (self-calibration) |
+| --- | --- | --- |
+| 2016 - 2020 B.c. | (A little bit) **Robotics** + (A little bit) **Website** | Can be replaced by AI completely😅 |
+| 2020 - 2022 | AI for Industry Biology |
+| 2023 - 2025 | AI for Medication & Vaccination (Win 2024 Nobel Prize) |
