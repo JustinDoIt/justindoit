@@ -8,7 +8,7 @@
 
 3. If the content I shared is able to help to, feel free to WeChat or Email me, I'm pretty happy I can help & Enjoy from helping people others.
    - WeChat: JustinDoIt_
-   - Gmail: zhangjq5656 <AT> gmail.com
+   - Gmail: zhangjq5656 /<AT/> gmail.com
   
 `Enjoy~ My Friends :P`
 
