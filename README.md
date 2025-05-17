@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Jianqi or Justin, 
 
-| Justin means "Just Do It" or "Just in time", Nice to meet you
+> Justin means "Just Do It" or "Just in time", Nice to meet you
 
 1. I'm currently focus on `Reasoning Model`🧑‍💻, working on `General-purpose representation`🧑‍💻. 
 
