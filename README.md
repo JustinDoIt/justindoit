@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 This is Jianqi or Justin, Justin means "Just Do It" or "Just in time", Nice to meet you
+
+I'm currently focus on `Reasoning Model`, working on `General-purpose representation`. 
+
+过去感兴趣过 `Robotics`, `AI for Industry Biology (Synthetic Biology)`, `AI for Medication & Vaccination (Win 2024 Nobel Prize)`.
 
 <!--
 **JustinDoIt/justindoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Background 
+## 📫 Background 
+
 | Phase | Focus on | Comments (self-calibration) |
 | --- | --- | --- |
 | 2016 - 2020 B.c. | (A little bit) **Robotics** + (A little bit) **Website** | Can be replaced by AI completely😅 |
