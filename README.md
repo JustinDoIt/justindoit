@@ -6,6 +6,8 @@
 
 2. 过去感兴趣过 `Robotics`🤖, `AI for Industry Biology (Synthetic Biology)`🧬, `AI for Medication & Vaccination (Win 2024 Nobel Prize)`🏆.
 
+If the content I shared is able to help to, feel free to WeChat or Email me, I'm happy to help & Enjoy from helping people others.
+
 <!--
 **JustinDoIt/justindoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
