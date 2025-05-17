@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 Show-Me-Your-Code 
 
-## 🧑‍💻 Understanding about modern LLM
+## 🧑‍🏫 Understanding & Discussion about modern LLM
